@@ -5,7 +5,7 @@ This component has the Powerapps Horizontal Bar chart in it. It has Gallerwidth 
 
 Basically there is no Out of the Box Bar chart comes with Powerapp as of today (30st July 2020). Added simple solution to conver the Powerapps Gallery to the Horizontal Bar chart by doing small tricks in width, height & adding functions to set the dynamically.
 
-![Single line textbox demonstration](https://github.com/nitins2408/PowerApps/blob/master/Horizontal%20Bar%20Chart/HorizontalBarChart.JPG)
+![Horizontal Bar chart](https://github.com/nitins2408/PowerApps/blob/master/Horizontal%20Bar%20Chart/HorizontalBarChart.JPG)
 
  
  
@@ -23,7 +23,10 @@ Basically there is no Out of the Box Bar chart comes with Powerapp as of today (
 
 4.  Two subtitle componenet to be adjusted for Name and value accordingly & hide other components your Horizontal Gallery is ready.
 
+## PreRequiste
+You Should know how to Import .msapp file as a Custom Component to Powerapps. There are lot of informaation availble on internet, you may refer below blog
     
+![Custom Component to Powerapps] (http://infofunvilla.com/import-msapp-canvas-custom-component-to-microsoft-powerapps/363/)
 
 ## Author
 - Nitin Sapkal
