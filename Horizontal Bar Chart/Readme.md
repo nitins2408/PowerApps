@@ -7,31 +7,11 @@ Basically there is no Out of the Box Bar chart comes with Powerapp as of today (
 
 ![Single line textbox demonstration](https://github.com/nitins2408/PowerApps/blob/master/Horizontal%20Bar%20Chart/HorizontalBarChart.JPG)
 
-**Multi line textbox**
-![Multi line textbox demonstration](/images/multiline-textbox-example.gif)
+ 
+ 
+## Gallery Properties
 
-## Video
-Watch a deep dive video about the component [here](https://youtu.be/URQLR8ndsOE).
-
-## Libraries
-This component uses the following library.
-https://www.npmjs.com/package/copy-to-clipboard
-
-## Installation
-Download the [CopyTextSolution.zip](https://github.com/TBag/power-apps-copy-text-to-clipboard/blob/master/CopyTextComponent/CopyTextSolution/bin/Debug/CopyTextSolution.zip) Solution file and import it into your Power Apps environment's Solution Gallery.  Then, you can add the component to your Power Apps.  
-
-To install it, follow steps 24-26 below and watch the video to learn more.
-
-## Test Power App
-Download this Power App and import it into your Power Apps environment.  This is the same Power App I use to demonstrate the component in the video.
-
-[Copy Text To Clipboard.msapp](https://github.com/TBag/power-apps-copy-text-to-clipboard/blob/master/CopyTextComponent/TestPowerApp/Copy%20Text%20To%20Clipboard.msapp)
-
-## How I made this component
-
-1. Install Power Apps CLI 
-
-    https://docs.microsoft.com/en-us/powerapps/developer/common-data-service/powerapps-cli
+1. Add the Data Source as 'ColumnChartSample'
 
 1. Open a PowerShell prompt.
 
