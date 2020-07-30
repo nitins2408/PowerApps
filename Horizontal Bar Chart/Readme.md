@@ -30,6 +30,11 @@ You Should know how to Import .msapp file as a Custom Component to Powerapps. Th
 [Import .msapp file as Custom Component to Powerapps](http://infofunvilla.com/import-msapp-canvas-custom-component-to-microsoft-powerapps/363/)
  
 
+## How to use the Horizontal Bar chart 
+Download the 'Horizontal_Bar_chart.msapp' as attached in this project and Import the same. Let me know your feed back :)
+
+
+
 ## Author
 - Nitin Sapkal
  
