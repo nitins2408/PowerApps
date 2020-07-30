@@ -1,2 +1,0 @@
-# PowerApps
-Powerapps Code Repository 
