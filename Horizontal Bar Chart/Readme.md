@@ -28,7 +28,7 @@ You Should know how to Import .msapp file as a Custom Component to Powerapps. Th
 
 
 [Custom Component to Powerapps](http://infofunvilla.com/import-msapp-canvas-custom-component-to-microsoft-powerapps/363/)
-[Github](https://github.com/) 
+ 
 
 ## Author
 - Nitin Sapkal
