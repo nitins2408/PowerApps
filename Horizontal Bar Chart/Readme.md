@@ -13,14 +13,15 @@ Basically there is no Out of the Box Bar chart comes with Powerapp as of today (
 
 1. Add the Data Source as 'ColumnChartSample'    {.Items}
 
-2.  Fill Property of Title1 inside Gallery :-> If (  ThisItem.Population < 8 , RGBA(58,139,249,1),If(ThisItem.Population < 10  , RGBA(229,111,49,1), 
-        If( ThisItem.Population < 15,  RGBA(111,05,131,1), RGBA(231,57,159,1 ) ) ) ) 
+2.  Fill Property of Title1 inside Gallery :-> 
+          `If (  ThisItem.Population < 8 , RGBA(58,139,249,1),If(ThisItem.Population < 10  , RGBA(229,111,49,1), 
+        If( ThisItem.Population < 15,  RGBA(111,05,131,1), RGBA(231,57,159,1 ) ) ) ) `
 
 3. Width Property of the Title1 inside Galleyr to be set to :->
 
     `(HorizontalBarGraph.GalleryWidthMultiplicationFactor + HorizontalBarGraph.Width-640) * (ThisItem.Population/Max( ColumnChartSample,Population))`
 
-4. 2 subtitle componenet to be adjusted for Name and value accordingly & hide other components your Horizontal Gallery is ready.
+4.  Two subtitle componenet to be adjusted for Name and value accordingly & hide other components your Horizontal Gallery is ready.
 
     
 
