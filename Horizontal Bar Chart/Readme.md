@@ -5,7 +5,7 @@ This component has the Powerapps Horizontal Bar chart in it. It has Gallerwidth 
 
 Basically there is no Out of the Box Bar chart comes with Powerapp as of today (30st July 2020). Added simple solution to conver the Powerapps Gallery to the Horizontal Bar chart by doing small tricks in width, height & adding functions to set the dynamically.
 
-![Single line textbox demonstration](/HorizontalBarChart.JPG)
+![Single line textbox demonstration](https://github.com/nitins2408/PowerApps/blob/master/Horizontal%20Bar%20Chart/HorizontalBarChart.JPG)
 
 **Multi line textbox**
 ![Multi line textbox demonstration](/images/multiline-textbox-example.gif)
