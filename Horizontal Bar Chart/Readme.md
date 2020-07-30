@@ -1,5 +1,5 @@
-# Power Apps Copy To Clipboard Component
-This component includes a textbox with a button next to it.  When you click the button it copies the contents of the textbox to the clipboard.  The current value of the text in the textbox is available as a component output property.  This allows the value in the textbox to be used directly from the Power App.
+# Power Apps Horizontal Bar Chart Custom Component
+This component has the Powerapps Horizontal Bar chart in it. It has Gallerwidth Multiplication factor which helps to make the BarGraph comaptible to your app & resolution. You can further do the customization as per your project & app needs
 
 **Single line textbox**
 ![Single line textbox demonstration](/images/Demo.gif)
