@@ -2,6 +2,7 @@
 This component has the Powerapps Horizontal Bar chart in it. It has Gallerwidth Multiplication factor which helps to make the BarGraph comaptible to your app & resolution. You can further do the customization as per your project & app needs
 
 **The Core Logic**
+
 Basically there is no Out of the Box Bar chart comes with Powerapp as of today (30st July 2020). Added simple solution to conver the Powerapps Gallery to the Horizontal Bar chart by doing small tricks in width, height & adding functions to set the dynamically.
 
 ![Single line textbox demonstration](/images/Demo.gif)
