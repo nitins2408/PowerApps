@@ -27,7 +27,8 @@ Basically there is no Out of the Box Bar chart comes with Powerapp as of today (
 You Should know how to Import .msapp file as a Custom Component to Powerapps. There are lot of informaation availble on internet, you may refer below blog
 
 
-[Custom Component to Powerapps] (http://infofunvilla.com/import-msapp-canvas-custom-component-to-microsoft-powerapps/363/)
+[Custom Component to Powerapps](http://infofunvilla.com/import-msapp-canvas-custom-component-to-microsoft-powerapps/363/)
+[Github](https://github.com/) 
 
 ## Author
 - Nitin Sapkal
